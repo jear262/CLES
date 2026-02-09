@@ -1,4 +1,6 @@
-# DISCLAMER: This is a personal project script and is still in early stages. Bugs and improper function to be expected. 
+# DISCLAMER: This is a personal project script and is still in early stages. Bugs and improper function to be expected.
+
+# TODO: Fix the HTML report, iron out the text report, verify accuracy of discovered vulnerablities. 
 
 # Linux Enumeration Script
 
@@ -18,10 +20,10 @@ A comprehensive security enumeration tool for Linux systems that identifies vuln
 
 ```bash
 # Make executable
-chmod +x clesV03.sh.sh
+chmod +x clesV03.sh
 
 # Run with terminal output
-./clesV03.sh.sh
+./clesV03.sh
 
 # Generate text report
 ./clesV03.sh --text
