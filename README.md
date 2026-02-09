@@ -226,7 +226,6 @@ Unauthorized access to computer systems is illegal. Use responsibly.
 - **GTFOBins**: https://gtfobins.github.io/ (SUID exploitation)
 - **PEASS-ng**: https://github.com/carlospolop/PEASS-ng (Privilege escalation)
 - **HackTricks**: https://book.hacktricks.xyz/ (Pentesting knowledge)
-- **LinuxKernelCVEs**: https://www.linuxkernelcves.com/ (Kernel vulnerabilities)
 
 ## Version
 
