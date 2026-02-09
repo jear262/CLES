@@ -204,7 +204,7 @@ fi
 - **Compliance Audits** - Document security posture
 - **System Hardening** - Identify areas for improvement
 - **Regular Monitoring** - Track changes over time
-- **CTF** - Search for esclation paths on CTF challenges 
+- **CTF** - Search privilege escalation paths on CTF challenges 
 
 ## Requirements
 
