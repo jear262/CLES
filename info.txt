@@ -1,0 +1,1 @@
+A general linux enumeration script that I wanted to make for myself for CTFs but also having capablities to produce reports. Still a work in Progress!
