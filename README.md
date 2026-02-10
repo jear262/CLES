@@ -1,4 +1,4 @@
-# DISCLAMER: This is a personal project script and is still in early stages. Bugs and improper function to be expected.
+# DISCLAMER: This is a personal project script and is still in early stages. Bugs and improper function to be expected. I used Claude Opus 4.5 to assist in formating and module functionality in this project.   
 
 # TODO: Fix the HTML report, iron out the text report, verify accuracy of discovered vulnerablities. 
 
